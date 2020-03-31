@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">fastfood</string>
+    <string name="logo">Logo aplicación</string>
+    <string name="imagennosotros">imagen nosotros</string>
+    <string name="italiano">sandwitch italiano</string>
+    <string name="luco">sandwitch luco</string>
+    <string name="chacarero">sandwitch chacarero</string>
+    <string name="lomito">sandwitch lomito</string>
+    <string name="pollo">sandwitch pollo</string>
+    <string name="botonsandwitch">sandwich!</string>
+    <string name="botonsobrenosotros">sobrenosotros!</string>
+    <string name="texview1">texview1</string>
+    <string name="texview2">texview2</string>
+    <string name="texview3">Somos una empresa familiar fundada el 31 de julio de 1988, con alto conocimiento en la producción y venta de comidas rápidas contactanos al: 965488536</string>
+    <string name="imagensw">imagensw</string>
+    <string name="tex1">tex1</string>
+    <string name="tex2">tex2</string>
+    <string name="tex3">tex3</string>
+    <string name="tex4">tex4</string>
+    <string name="imagensw2">imagensw2</string>
+</resources>
